@@ -8,7 +8,9 @@
 
 ## 演示视频
 
-https://github.com/user-attachments/assets/34be3bca-14c1-487f-bfd2-8c0c560e6272
+
+https://github.com/user-attachments/assets/8b0bcc6a-2277-4351-ac14-b7d72a69a7e0
+
 
 ## 功能亮点
 
